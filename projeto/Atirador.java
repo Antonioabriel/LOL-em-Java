@@ -3,8 +3,8 @@ package projeto;
 import projeto.Personagens.Personagem;
 
 public abstract class Atirador extends Personagem{
-	public Atirador(String nome, int vida, int mana, int dano, int armadura, boolean atacou,boolean cura,boolean viva) {
-		super(nome, vida, mana, dano, armadura,atacou,cura,viva);
+	public Atirador(String nom, int vida, int mana, int dano, int armadura, boolean atacou,boolean cura,boolean viva) {
+		super(nom, vida, mana, dano, armadura,atacou,cura,viva);
 		// TODO Auto-generated constructor stub
 	}
 
