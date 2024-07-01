@@ -1,8 +1,6 @@
 package projeto;
 
 import projeto.Personagens.Personagem;
-import projeto.Time.*;
-import projeto.Personagens.*;
 
 public class Funcoes {
 
